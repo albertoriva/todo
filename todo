@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export TODOFILE=~/Dropbox/todo/todo.txt
+~/Dropbox/todo/todo.py $*
